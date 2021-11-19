@@ -61,3 +61,6 @@ C:\Users\es18954\Downloads\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.T
 C:\Users\es18954\Downloads\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\es18954\Downloads\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\es18954\Downloads\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\es18954\Downloads\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\es18954\Downloads\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\es18954\Downloads\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
